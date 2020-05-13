@@ -1,0 +1,15 @@
+{
+  "name": "ywa/advanced-qa",
+  "authors": [
+    {
+      "name": "ywa",
+      "email": "ywa12@yahoo.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "YWA\\": "./src"
+    }
+  }
+}
